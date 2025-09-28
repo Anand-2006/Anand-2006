@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **anandnair2626@gmail.com**
 
-- 📄 Know about my experiences [AI-ML coord at MLSC VIT Pune](AI-ML coord at MLSC VIT Pune)
+- 📄 Know about my experiences [AI-ML coord at MLSC VIT Pune]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
