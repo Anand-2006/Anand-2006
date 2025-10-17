@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand</h1>
-<h3 align="center">A passionate AI-ML enthusiast from India</h3>
+<h3 align="center">A passionate AI-ML enthusiast from Pune,India</h3>
 
 - 🌱 I’m currently learning **AI-ML, Cloud, DSA**
 
@@ -7,7 +7,6 @@
 
 - 📄 Know about my experiences [AI-ML coord at MLSC VIT Pune]
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
