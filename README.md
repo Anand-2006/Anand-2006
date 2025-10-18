@@ -6,7 +6,7 @@
 - 📫 How to reach me **anandnair2626@gmail.com**
 
 - 📄 Know about my experiences [AI-ML coord at MLSC VIT Pune (Present)]
--                              [R&D developer at Innovsphere(Feb 2025 - Aug 2025)]
+                               [R&D developer at Innovsphere(Feb 2025 - Aug 2025)]
 
 <p align="left">
 </p>
