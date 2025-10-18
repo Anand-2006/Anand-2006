@@ -118,6 +118,6 @@ $ echo "No risk, full push"
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Anand-2006&label=Profile%20Views&color=E10600&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Anand-2006&label=Profile%0Views&color=E10600&style=flat-square" alt="Profile views"/>
 
 </div>
